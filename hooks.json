@@ -2,7 +2,7 @@
     {
         "repo": "b44ken/winzard",
         "service": "github",
-        "command": "cd /var/www/winzard && npm run build",
-        "lastRun": 1698868029
+        "command": "echo hi",
+        "lastRun": 1698871192
     }
 ]

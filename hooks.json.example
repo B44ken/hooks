@@ -1,0 +1,7 @@
+[
+    {
+        "repo": "octocat/Spoon-Knife",
+        "service": "github",
+        "command": "echo spoon knife was updated!",
+    }
+]

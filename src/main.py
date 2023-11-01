@@ -22,4 +22,4 @@ def update_from_file():
 if __name__ == '__main__':
     while True:
         update_from_file()
-        time.sleep(1)
+        time.sleep(10)
